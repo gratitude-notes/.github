@@ -36,11 +36,10 @@ Our application will allow a user to track their happiness, and enter bullet poi
 
 ## Member Roles
 
-**Allison Moyer (Firebase Implementation)**
- * Construct our database for our application
- * Develop API routes for which our front-end will utilize
- * Implement testing across all API routes
- * Document all routes using Swagger
+**Allison Moyer (Firebase Implementation)** 
+* Construct our database for our application
+* Develop & Secure routes to retrieve user data
+* Implement Firebase Authentication into front-end
 
 **Brady Waughen (GCP MLOps & DevOps)**
 * Ensure the uptime status of our application
